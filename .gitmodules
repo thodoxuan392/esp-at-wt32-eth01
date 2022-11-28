@@ -1,0 +1,3 @@
+[submodule "esp-idf"]
+	path = esp-idf
+	url = git@github.com:thodoxuan392/esp-idf-wt32-eth01.git
